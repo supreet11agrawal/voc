@@ -28,6 +28,7 @@ A transpiler that converts Python code into Java bytecode.
 This is experimental code. If it breaks, you get to keep all the shiny pieces.
 
 What it does:
+asd
 
 * Provides an API to let you programmatically create Java class files.
 
